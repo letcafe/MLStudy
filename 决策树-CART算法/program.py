@@ -6,6 +6,7 @@ data = np.genfromtxt("cart.csv", delimiter=",")
 x_data = data[1:, 1:-1]
 y_data = data[1:, -1]
 
+
 # 创建决策树模型
 model = tree.DecisionTreeClassifier()
 # 输入数据建立模型
