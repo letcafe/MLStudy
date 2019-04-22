@@ -63,8 +63,43 @@ Python 机器学习算法学习代码
 │      6-6 （实战）决策树-线性二分类.md
 │      6-7 （实战）决策树-非线性二分类.md
 │
-└─第7章 集成学习
-        7-1 （实战）Bagging.md
-        7-2 （实战）随机森林RF.md
-        7-3 （实战）Adaboost.md
+├─第7章 集成学习
+│      7-1 （实战）Bagging.md
+│      7-2 （实战）随机森林RF.md
+│      7-3 （实战）Adaboost.md
+│      7-4 （实战）Stacking和Voting.md
+│      7-5 Kaggle介绍，数据分析.md
+│
+├─第8章 贝叶斯算法
+│      8-1 贝叶斯算法背景.md
+│      8-2 贝叶斯算法介绍.md
+│      8-3 （实战）贝叶斯-iris数据集.md
+│      8-4 （实战）词袋模型介绍.md
+│      8-5 （实战）TF-IDF算法介绍.md
+│
+├─第9章 聚类算法
+│      9-1 K-MEANS算法介绍.md
+│      9-2 （实战）python-K-MEANS算法.md
+│      9-3 （实战）sklearn-KMEANS.md
+│      9-4 （实战）sklearn-Mini-Batch-K-Means.md
+│      9-5 K-Means算法存在的4个问题.md
+│      9-6 （实战）K-Means代价函数的应用.md
+│      9-7 （实战）K-Means肘部法则.md
+│      9-8 K-Means算法可视化.md
+│      9-9 DBSCAN算法.md
+│      9-11（实战）sklearn-DBSCAN算法.md
+├─第10章 主成分分析PCA
+│      10-1 PCA算法讲解.md
+│      10-2 （实战）python实现PCA降维.md
+│
+└─第11章 支持向量机SVM
+        11-1 SVM简介.md
+        11-2 （实战）SVM简单例子.md
+        11-4 松弛变量与惩罚函数.md
+        11-6 （实战）SVM低维映射到高维.md
+        11-7 核函数.md
+        11-8 （实践）SVM-线性分类.md
+        11-9 （实践）SVM-非线性分类.md
 ```
+
+Junior studied to end at 2019-04-22
